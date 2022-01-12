@@ -1,3 +1,12 @@
+/*
+  trying to break down the code for the time that appeared on XKCD's page
+  during January 2022
+*/
+
+// modules used
+// math
+// get time
+
 (()=>{
     "use strict";
     function t(t, e) {
